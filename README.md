@@ -47,7 +47,7 @@
 <h2>Getting Started</h2>
 <p>To start learning procedural C++ programming, you can use a C++ development environment on your computer, such as popular C++ compilers like GCC, Clang, or Visual C++. You'll also need a text editor or an integrated development environment (IDE) to write your code.</p>
 
-<h2>Examples</h2>
+<h2>Example</h2>
 <p>Here's a simple example of procedural programming in C++:</p>
 
 <pre>
@@ -72,6 +72,9 @@ int main() {
 </pre>
 
 <p>In this example, we have a function <code>add</code> that adds two numbers, and it's called from the <code>main</code> function to perform the addition.</p>
+
+<h2>Two Projects</h2>
+<p>With different examples there are two projects for Employee Management System and Hotel Reservation System for learning and understanding</p>
 
 <h2>License</h2>
 <p>This educational document is not associated with a specific project and does not have a license. You are free to use and share it for learning purposes.</p>
