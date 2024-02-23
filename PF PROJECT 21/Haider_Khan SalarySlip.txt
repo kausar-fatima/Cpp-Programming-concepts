@@ -1,0 +1,4 @@
+Salary month :                             May
+Employee Name :                    Haider_Khan
+Designation :              Assistant_Professor
+Salary :                                 67000

@@ -1,0 +1,4 @@
+Salary month :                        November
+Employee Name :                       Ali_Raza
+Designation :                         Lecturer
+Salary :                                 70000

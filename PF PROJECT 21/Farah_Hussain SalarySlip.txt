@@ -1,0 +1,4 @@
+Salary month :                         January
+Employee Name :                  Farah_Hussain
+Designation :                         Lecturer
+Salary :                                 70000

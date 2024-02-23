@@ -1,0 +1,10 @@
+E001	Usman_Raza	Lecturer	70000	Febuary	5	3	2000	66000
+E002	Zeeshan_Akram	Assistant_Professor	100000	February	0	4	3000	100000
+E003	Saima_Ahmad	Associate_Professor	150000	March	0	5	5000	150000
+E004	Irfan_Ahmad	Assistant_Professor	100000	April	10	4	3000	82000
+E005	Haider_Khan	Assistant_Professor	100000	May	15	4	3000	67000
+E006	Saad_Raza	Associate_Professor	150000	June	2	5	5000	150000
+E007	Saima_Akram	Associate_Professor	150000	July	5	5	5000	150000
+E008	Bushra_Zulfiqar	Professor	180000	August	0	6	6000	180000
+E009	Ali_Raza	Lecturer	70000	November	0	3	2000	70000
+E010	Farah_Hussain	Lecturer	70000	January	0	3	2000	70000

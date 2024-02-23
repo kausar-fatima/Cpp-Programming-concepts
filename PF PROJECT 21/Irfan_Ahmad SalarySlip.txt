@@ -1,0 +1,4 @@
+Salary month :                           April
+Employee Name :                    Irfan_Ahmad
+Designation :              Assistant_Professor
+Salary :                                 82000

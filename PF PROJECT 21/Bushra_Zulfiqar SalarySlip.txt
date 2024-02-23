@@ -1,0 +1,4 @@
+Salary month :                          August
+Employee Name :                Bushra_Zulfiqar
+Designation :                        Professor
+Salary :                                180000

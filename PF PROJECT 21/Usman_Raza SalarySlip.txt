@@ -1,0 +1,4 @@
+Salary month :                         Febuary
+Employee Name :                     Usman_Raza
+Designation :                         Lecturer
+Salary :                                 66000

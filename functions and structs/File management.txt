@@ -1,0 +1,1 @@
+Employee ID   Employee name   Designation   Basic Salary   Leaves   Allowed Leaves   Deduction rate per leave   Salary
